@@ -31,13 +31,13 @@ This repository includes:
 - Cisco IOS images (e.g., vIOS)
 - Basic Linux knowledge
 
-## 🧠 Author
-
-Mohammed Arbaoui  
+## 🧠 Author  
+**Mohammed Arbaoui**  
 35 y/o | Network Security Engineer  
-CCNA • Linux+ • CCNP Security (in progress) • Fortinet FCP  
-🔗 [LinkedIn](https://www.linkedin.com/in/mohammedarbaoui/)  
-🌍 Based in Morocco – 🇲🇦
+CCNA • Linux+ • CCNP Security *(in progress)*  
+🔗 [LinkedIn](https://www.linkedin.com/in/mohammedarbaoui)  
+🌐 Remote | Privacy-oriented
+
 ------
 This lab reflects my focus on secure, scalable, and real-world network topologies.
 ---
