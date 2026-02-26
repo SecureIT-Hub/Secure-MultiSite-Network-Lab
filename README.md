@@ -1,7 +1,7 @@
 # Secure Multi-Site Network Lab  
 Cisco | FortiGate | Linux  
 
-Enterprise-style multi-site lab environment designed to validate secure connectivity, firewall enforcement and segmented network architectures.
+Multi-site homelab designed to validate secure connectivity, firewall enforcement and segmented network architectures.
 
 This project simulates production-grade behavior using Cisco IOS routing, FortiGate security policies and Linux-based services under controlled constraints.
 
@@ -66,6 +66,6 @@ Cisco CCNA · CompTIA Linux+
 
 Focused on secure connectivity operations, firewall environments and production-grade network validation.
 
-Operating in hybrid enterprise contexts with structured troubleshooting and disciplined execution.
+Operating in hybrid infrastructures with structured troubleshooting and disciplined execution.
 
 Fully remote capable.
