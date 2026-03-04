@@ -1,71 +1,150 @@
-# Secure Multi-Site Network Lab  
-Cisco | FortiGate | Linux  
+# SecureIT Hub
 
-Multi-site homelab designed to validate secure connectivity, firewall enforcement and segmented network architectures.
+Network & Security Engineer focused on secure connectivity, VPN environments and firewall operations.
 
-This project simulates production-grade behavior using Cisco IOS routing, FortiGate security policies and Linux-based services under controlled constraints.
+This GitHub space contains labs, validation environments and automation tooling designed to simulate real-world network behavior and strengthen operational reliability.
 
----
-
-## Validation Focus
-
-The lab is structured as a validation platform for:
-
-- IPSec site-to-site VPN stability  
-- Firewall policy lifecycle & segmentation enforcement  
-- NAT & DMZ traffic control  
-- Static and dynamic routing scenarios  
-- CLI-based troubleshooting workflows  
-- Log visibility and traffic inspection validation  
+The goal is not theoretical experimentation but structured validation of network architectures, secure connectivity patterns and operational workflows.
 
 ---
 
-## Architecture Overview
+## Focus Areas
 
-The environment replicates a multi-site topology with routed domains and secured interconnections.
-
-**Key elements:**
-
-- Segmented internal networks  
-- Inter-site IPSec tunnels  
-- Centralized policy enforcement  
-- Controlled access to DMZ services  
-- Monitoring and log validation  
-
-The objective is to test behavior under realistic operational constraints rather than theoretical scenarios.
+- Secure connectivity architectures
+- IPSec & SSL VPN validation
+- Firewall policy lifecycle management
+- Network segmentation enforcement
+- Infrastructure troubleshooting workflows
+- Network automation and configuration validation
 
 ---
 
-## Technologies Used
+## Core Technology Stack
 
-- Cisco IOS (R1, R2 – routing scenarios)  
-- FortiGate 7.x (policy control, NAT, IPSec VPN)  
-- Ubuntu Server (DNS, Web services)  
-- EVE-NG (network emulation platform)  
-- IPSec VPN (Phase 1 / Phase 2 validation)  
-- NAT / PAT  
-- ACL-based traffic filtering  
-- Static & dynamic routing (OSPF / BGP where applicable)  
+Cisco · Fortinet · Zscaler · Linux
+
+Additional technologies used in labs and validation environments:
+
+- Cisco IOS
+- FortiGate (policy control, NAT, IPSec VPN)
+- Ubuntu Server
+- EVE-NG network emulation
+- Python automation tooling
+- Syslog & traffic inspection workflows
 
 ---
 
-## Requirements
+## Repository Structure
 
-- EVE-NG (bare metal or VM)  
-- FortiGate 7.x image added to EVE-NG  
-- Cisco IOS image (vIOS or equivalent)  
-- Basic CLI-based configuration knowledge  
+This GitHub is organized around several infrastructure and security validation projects.
+
+### Multi-Site Network Lab
+
+Enterprise-style homelab replicating segmented networks and inter-site connectivity.
+
+Validation focus:
+
+- IPSec site-to-site VPN stability
+- Firewall policy enforcement
+- Segmentation validation
+- Routing scenarios (static and dynamic)
+- CLI troubleshooting workflows
+
+Technologies:
+
+Cisco · Fortinet · Linux · IPSec · NAT · OSPF · BGP
+
+---
+
+### Network Automation Toolkit
+
+Operational Python toolkit designed to improve reliability and consistency in network environments.
+
+Capabilities:
+
+- Automated configuration backups
+- Inventory parsing
+- Configuration drift detection
+- Bulk CLI execution
+- Structured validation workflows
+
+Technologies:
+
+Python · YAML · CLI automation
+
+---
+
+### Secure Remote Access Lab
+
+Validation environment designed to test remote connectivity architectures.
+
+Scenarios include:
+
+- IPSec remote access
+- SSL VPN scenarios
+- Zscaler ZIA / ZPA behavior
+- Authentication and policy enforcement
+- Access segmentation validation
+
+Technologies:
+
+Zscaler · VPN · Firewall · Access Control
+
+---
+
+### Firewall Policy Optimization Study
+
+Structured review of firewall rulebases to improve clarity, performance and security posture.
+
+Focus areas:
+
+- Rule lifecycle management
+- NAT optimization
+- Segmentation reinforcement
+- Policy overlap detection
+- Change impact validation
+
+Technologies:
+
+Fortinet · AlgoSec · Firewall policy analysis
+
+---
+
+### Incident Response & Log Analysis Playground
+
+Controlled environment for log correlation and structured troubleshooting scenarios.
+
+Validation includes:
+
+- Syslog analysis
+- Packet capture and replay
+- Traffic inspection workflows
+- Incident simulation
+
+Technologies:
+
+Linux · Syslog · Packet analysis
 
 ---
 
 ## Engineering Profile
 
-Network & Security Engineer  
+Network & Security Engineer
+
 Cisco CCNP Security – SVPN  
-Cisco CCNA · CompTIA Linux+  
+Cisco CCNA  
+CompTIA Linux+  
 
-Focused on secure connectivity operations, firewall environments and production-grade network validation.
+Operating within hybrid infrastructures with a strong focus on secure connectivity, firewall environments and production network troubleshooting.
 
-Operating in hybrid infrastructures with structured troubleshooting and disciplined execution.
+Structured execution, operational discipline and security-driven architecture remain central to every project and validation environment.
 
-Fully remote capable.
+---
+
+## External Links
+
+Portfolio  
+https://secureit-hub.com
+
+LinkedIn  
+https://linkedin.com/in/mohammed-a-780b47195
